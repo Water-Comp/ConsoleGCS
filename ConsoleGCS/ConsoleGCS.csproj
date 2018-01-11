@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DB.cs" />
-    <Compile Include="Elementary.cs" />
+    <Compile Include="source\DB.cs" />
+    <Compile Include="source\Elementary.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="TCP.cs" />
+    <Compile Include="source\TCP.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
