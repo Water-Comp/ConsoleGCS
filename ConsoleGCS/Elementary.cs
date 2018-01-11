@@ -8,6 +8,9 @@ namespace ConsoleGCS
 {
     class Elementary
     {
+        public List<string> getErrors()
+        {
 
+        }
     }
 }
