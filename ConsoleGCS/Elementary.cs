@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleGCS
 {
-    class Elementary
+    static class Elementary
     {
-
+        public static void SendToServer(string message, string IP)
+        {
+            TCP.Connect(IP, message, 3456);
+        }
     }
 }
