@@ -1,0 +1,8 @@
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\bin\Debug\ConsoleGCS.exe.config
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\bin\Debug\ConsoleGCS.exe
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\bin\Debug\ConsoleGCS.pdb
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\bin\Debug\System.Data.SQLite.xml
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\obj\Debug\ConsoleGCS.csprojResolveAssemblyReference.cache
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\obj\Debug\ConsoleGCS.csproj.CoreCompileInputs.cache
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\obj\Debug\ConsoleGCS.exe
+C:\Users\zaqqz\Desktop\Repositories\ConsoleGCS\ConsoleGCS\obj\Debug\ConsoleGCS.pdb
